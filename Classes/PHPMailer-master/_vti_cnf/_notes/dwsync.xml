@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".gitignore" server="www.pavas.co/Zonaclientes/" local="131305390132779988" remote="130852116000000000" Dst="0" />
+<file name=".scrutinizer.yml" server="www.pavas.co/Zonaclientes/" local="131305390132810003" remote="130852116000000000" Dst="0" />
+<file name=".travis.yml" server="www.pavas.co/Zonaclientes/" local="131305390132820016" remote="130852116000000000" Dst="0" />
+<file name="LICENSE" server="www.pavas.co/Zonaclientes/" local="131305390140765121" remote="130852116000000000" Dst="0" />
+<file name="PHPMailerAutoload.php" server="www.pavas.co/Zonaclientes/" local="131305390140790137" remote="130852116000000000" Dst="0" />
+<file name="README.md" server="www.pavas.co/Zonaclientes/" local="131305390140810154" remote="130852116000000000" Dst="0" />
+<file name="changelog.md" server="www.pavas.co/Zonaclientes/" local="131305390148703223" remote="130852116000000000" Dst="0" />
+<file name="class.phpmailer.php" server="www.pavas.co/Zonaclientes/" local="131305390148733153" remote="130852116000000000" Dst="0" />
+<file name="class.pop3.php" server="www.pavas.co/Zonaclientes/" local="131305390148848224" remote="130852116000000000" Dst="0" />
+<file name="class.smtp.php" server="www.pavas.co/Zonaclientes/" local="131305390159446073" remote="130852116000000000" Dst="0" />
+<file name="composer.json" server="www.pavas.co/Zonaclientes/" local="131305390159451078" remote="130852116000000000" Dst="0" />
+<file name="travis.phpunit.xml.dist" server="www.pavas.co/Zonaclientes/" local="131305390159476100" remote="130852116000000000" Dst="0" />
+<file name="changelog.md" server="www.pavas.com.co/httpdocs/Zonaclientes/" local="131305390148703223" remote="131342181000000000" Dst="0" />
+<file name="class.phpmailer.php" server="www.pavas.com.co/httpdocs/Zonaclientes/" local="131305390148733153" remote="131342181000000000" Dst="0" />
+<file name="class.pop3.php" server="www.pavas.com.co/httpdocs/Zonaclientes/" local="131305390148848224" remote="131342181000000000" Dst="0" />
+<file name="class.smtp.php" server="www.pavas.com.co/httpdocs/Zonaclientes/" local="131305390159446073" remote="131342181000000000" Dst="0" />
+<file name="composer.json" server="www.pavas.com.co/httpdocs/Zonaclientes/" local="131305390159451078" remote="131342181000000000" Dst="0" />
+<file name="LICENSE" server="www.pavas.com.co/httpdocs/Zonaclientes/" local="131305390140765121" remote="131342181000000000" Dst="0" />
+<file name="PHPMailerAutoload.php" server="www.pavas.com.co/httpdocs/Zonaclientes/" local="131305390140790137" remote="131342181000000000" Dst="0" />
+<file name="README.md" server="www.pavas.com.co/httpdocs/Zonaclientes/" local="131305390140810154" remote="131342181000000000" Dst="0" />
+<file name="travis.phpunit.xml.dist" server="www.pavas.com.co/httpdocs/Zonaclientes/" local="131305390159476100" remote="131342181000000000" Dst="0" />
+</dwsync>
