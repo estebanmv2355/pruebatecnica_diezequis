@@ -11,3 +11,4 @@ la conexion a la base de datos en esta en la carpeta data
 si tienes que modificar la conexion para ensayar la prueba se 
 tiene que cambiar en los json de las datatables que estan en modulos en sus respectivas carpetas y cambiar en 
 ssp.class.php que es esta en la carpeta data 
+la base de datos se llama bdpruebatecnica.sql esta afuera de las carpetas 
